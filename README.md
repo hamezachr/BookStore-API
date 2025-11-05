@@ -65,6 +65,3 @@ Additional examples:
 ## 🛡️ Auth Notes
 - Use `POST /login` to get a JWT.
 - Send `Authorization: Bearer <token>` for `/auth/*` routes.
-
----
-Happy hacking! If you want this README styled differently (badges, TOC, or dark-mode screenshots), tell me your preference.
