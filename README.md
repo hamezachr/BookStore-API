@@ -1,4 +1,4 @@
-# 📚 BookStore API
+# 📚 BookStore API 
 
 A clean, minimal REST API built with Node.js + Express for managing books and user reviews. It includes JWT authentication and async examples (callbacks + promises).
 
